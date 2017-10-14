@@ -1,0 +1,6 @@
+﻿  PigLatin.cpp
+c:\users\tay's\desktop\info 450\assignments\piglatin\piglatin\piglatin.cpp(53): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\tay's\desktop\info 450\assignments\piglatin\piglatin\piglatin.cpp(60): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\tay's\desktop\info 450\assignments\piglatin\piglatin\piglatin.cpp(119): warning C4018: '<': signed/unsigned mismatch
+  PigLatin.vcxproj -> C:\Users\Tay's\Desktop\Info 450\Assignments\PigLatin\Debug\PigLatin.exe
+  PigLatin.vcxproj -> C:\Users\Tay's\Desktop\Info 450\Assignments\PigLatin\Debug\PigLatin.pdb (Full PDB)
